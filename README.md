@@ -48,7 +48,7 @@ The corresponding Python APIs are accessible through a class called `SummaryWrit
 pip install mxboard
 ```
 
-### Install MXBoard Python package from source
+### (Optinal) Install MXBoard Python package from source
 
 ```bash
 git clone https://github.com/awslabs/mxboard.git
